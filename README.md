@@ -38,3 +38,8 @@ I believe in understanding concepts deeply and applying them through real-world 
 ---
 
 *This is the beginning of my engineering journey. More projects and milestones coming soon.*
+
+### 🔧 Development Workflow
+
+I use Git and GitHub to track changes, maintain project
+history, and document my engineering work.
